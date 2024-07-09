@@ -4,7 +4,10 @@
 
 
 ## Funcionalidades ##
+
 Objetivo desenvolver as seguintes  funcionalidades essenciais, como:
+
+
 Cadastro do usuário;
 
 Adicionar produtos no carrinho;
