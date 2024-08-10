@@ -24,7 +24,12 @@ Visualizar informações do usuário.
 Pré visualização
 
 
-!![Captura de tela 2024-08-09 163111](https://github.com/user-attachments/assets/4c1f0e7a-4284-44d7-acc9-f72466e1bf5b)
+
+!![image](https://github.com/user-attachments/assets/fa58028c-369c-4929-a66a-f936666a7217)
+
+
+!![image](https://github.com/user-attachments/assets/03aca1c3-99cb-4136-a189-893ea17716e4)
+
 
 
 
